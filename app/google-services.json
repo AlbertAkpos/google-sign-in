@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506317446158",
+    "firebase_url": "https://signin-f2f8f.firebaseio.com",
+    "project_id": "signin-f2f8f",
+    "storage_bucket": "signin-f2f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506317446158:android:89ca7f86814d174500705f",
+        "android_client_info": {
+          "package_name": "me.alberto.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506317446158-jbh5epni9lciq27lvd0l7a83f38ivgcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaUoUbJvOMpjx7nvXwyo5ro9lvXwzdg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506317446158-jbh5epni9lciq27lvd0l7a83f38ivgcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
